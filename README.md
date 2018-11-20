@@ -36,3 +36,4 @@ Include conf/modsecurity/rules/*.conf
 "#SecRuleEngine DetectionOnly" to "SecRuleEngine On"
 "#SecRequestBodyAccess On" to "SecRequestBodyAccess Off"
 ```
+# restart xampp-apache
