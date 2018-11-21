@@ -1,14 +1,10 @@
 # windows-modsecurity
 ## download
-```
 https://www.apachelounge.com/download/
 https://github.com/SpiderLabs/owasp-modsecurity-crs
-```
-```
+# install step
 https://thk.kanzae.net/net/itc/t7194/
 https://stackoverflow.com/questions/41056361/installing-mod-security2-so-on-apache-2-4-23-on-windows-7
-```
-# install step
 ```
 將"libcurl.dll"和"yajl.dll"放到"/xampp/apache/bin/"
 將"modsecurity.conf"放入"/xampp/apache/conf/"
